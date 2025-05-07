@@ -1,4 +1,4 @@
-package com.junxtar.datasource.datasource;
+package com.junxtar.example.datasource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
